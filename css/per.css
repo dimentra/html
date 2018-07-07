@@ -1,17 +1,20 @@
 body {
-	background-image: url('../img/31.jpg');
+  background-image: url('../img/31.jpg');
 }
+
 h2 {
-	color: orange;
-	margin: 2%;
-	padding: 20px;
-	font-family: Geneva, Arial, Helvetica, sans-serif;
+  color: orange;
+  margin: 2%;
+  padding: 20px;
+  font-family: Geneva, Arial, Helvetica, sans-serif;
 }
+
 img {
-	width: 800px;
-	height: 600px;
+  width: 800px;
+  height: 600px;
 
 }
+
 a:hover {
-	color: hotpink;
+  color: hotpink;
 }
