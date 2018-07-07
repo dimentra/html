@@ -1,6 +1,11 @@
 table {
 	border: 1;
 }
+
 a:hover {
 	color: hotpink;
+}
+
+body {
+    background-color: #62DA9A;
 }
