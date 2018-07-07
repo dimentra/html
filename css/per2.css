@@ -1,0 +1,15 @@
+body {
+	 background-color: #62DA9A;
+	}
+ul {
+	 list-style-type: square;
+}
+ol {
+	list-style-type: upper-roman;
+}
+h2 {
+	float: none;
+}
+a:hover {
+	color: hotpink;
+}
